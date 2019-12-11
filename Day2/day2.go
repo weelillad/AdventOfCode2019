@@ -57,7 +57,6 @@ func part1(program []int) []int {
 	return program
 }
 
-// TODO
 func part2(program []int) int {
 	var noun, verb int
 	output := make([]int, len(program))
